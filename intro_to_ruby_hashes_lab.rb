@@ -33,7 +33,8 @@ end
 
 def monopoly_with_fourth_tier
 	monopoly_with_fourth_tier = {
-		railroads: {pieces: 4,
+		railroads: {
+			pieces: 4,
 			rent_in_dollars: {
 				one_piece_owned: 25,
 				two_pieces_owned: 50,
